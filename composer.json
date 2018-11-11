@@ -1,0 +1,16 @@
+{
+    "name": "projectgym/projectgym",
+    "description": "pagina de administracion de gimnasio Spinningfit",
+    "type": "project",
+    "require": {
+        "spipu/html2pdf": "^5.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rated223",
+            "email": "Rated223@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

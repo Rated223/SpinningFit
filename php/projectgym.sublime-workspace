@@ -1,0 +1,1220 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"porta",
+				"portada1.jpg\tw:960 h:201"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"align",
+				"align-self-start \tBootstrap 4 Class"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"aling",
+				"align-self\tproperty"
+			],
+			[
+				"r",
+				"right\tproperty"
+			],
+			[
+				"list-groip",
+				"list-group-item \tBootstrap 4 Class"
+			],
+			[
+				"justif",
+				"justify-content-center \tBootstrap 4 Class"
+			],
+			[
+				"b4list",
+				"b4:list:label\tlinked"
+			],
+			[
+				"query",
+				"queryfolio"
+			],
+			[
+				"mysqli_fetch",
+				"mysqli_fetch_array"
+			],
+			[
+				"in",
+				"inline\tdisplay"
+			],
+			[
+				"bg-da",
+				"bg-danger \tBootstrap 4 Class"
+			],
+			[
+				"msqli_fetc",
+				"mysqli_fetch_array"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"overf",
+				"overflow-x\tproperty"
+			],
+			[
+				"flex",
+				"flex-shrink\tproperty"
+			],
+			[
+				"p",
+				"p-4 \tBootstrap 4 Class"
+			],
+			[
+				"just",
+				"justify-content-end \tBootstrap 4 Class"
+			],
+			[
+				"h",
+				"h-25 \tBootstrap 4 Class"
+			],
+			[
+				"textw",
+				"text-white \tBootstrap 4 Class"
+			],
+			[
+				"btn",
+				"btn-primary \tBootstrap 4 Class"
+			],
+			[
+				"border-d",
+				"border-dark \tBootstrap 4 Class"
+			],
+			[
+				"mysqli_f",
+				"mysqli_fetch_array"
+			],
+			[
+				"l",
+				"LOGO.png\tw:1920 h:1080"
+			],
+			[
+				"im",
+				"images/"
+			],
+			[
+				"for",
+				"FormMaintenance.php"
+			],
+			[
+				"Form",
+				"FormExpenses.php"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"justi",
+				"justify-content-end \tBootstrap 4 Class"
+			],
+			[
+				"m",
+				"margin-left\tproperty"
+			],
+			[
+				"d-i",
+				"d-inline-block \tBootstrap 4 Class"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"text-da",
+				"text-dark \tBootstrap 4 Class"
+			],
+			[
+				"navbar",
+				"navbar-brand \tBootstrap 4 Class"
+			],
+			[
+				"input",
+				"input-group \tBootstrap 4 Class"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"text-d",
+				"text-dark \tBootstrap 4 Class"
+			],
+			[
+				"jusr",
+				"justify-content-center \tBootstrap 4 Class"
+			],
+			[
+				"border",
+				"border-style\tproperty"
+			],
+			[
+				"border-r",
+				"border-right-0 \tBootstrap 4 Class"
+			],
+			[
+				"b4for",
+				"b4:form:validation\tvalidation"
+			],
+			[
+				"contai",
+				"container-fluid \tBootstrap 4 Class"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"aling-se",
+				"align-self-end \tBootstrap 4 Class"
+			],
+			[
+				"border-top",
+				"border-top-right-radius\tproperty"
+			],
+			[
+				"bg-w",
+				"bg-white \tBootstrap 4 Class"
+			],
+			[
+				"container",
+				"container \tBootstrap 4 Class"
+			],
+			[
+				"d",
+				"d-inline-block \tBootstrap 4 Class"
+			],
+			[
+				"d-in",
+				"d-inline-flex \tBootstrap 4 Class"
+			],
+			[
+				"bg-",
+				"bg-info \tBootstrap 4 Class"
+			],
+			[
+				"b4carous",
+				"b4:carousel\tcarousel"
+			],
+			[
+				"b4carouse",
+				"b4:template:carousel\tcarousel"
+			],
+			[
+				"font",
+				"font-weight-bold \tBootstrap 4 Class"
+			],
+			[
+				"rou",
+				"rounded \tBootstrap 4 Class"
+			],
+			[
+				"text",
+				"text-uppercase \tBootstrap 4 Class"
+			],
+			[
+				"conta",
+				"container-fluid \tBootstrap 4 Class"
+			],
+			[
+				"bg",
+				"bg-white \tBootstrap 4 Class"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"jus",
+				"justify-content-center \tBootstrap 4 Class"
+			],
+			[
+				"align-cont",
+				"align-content-center \tBootstrap 4 Class"
+			],
+			[
+				"carbon",
+				"carbon"
+			],
+			[
+				"file_get",
+				"file_get_contents"
+			],
+			[
+				"my",
+				"my-2 \tBootstrap 4 Class"
+			],
+			[
+				"C",
+				"conexion.php"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bacc",
+				"background-color"
+			],
+			[
+				"btn-se",
+				"btn-secondary \tBootstrap 4 Class"
+			],
+			[
+				"mysqli_fe",
+				"mysqli_fetch_array"
+			],
+			[
+				"jusi",
+				"justify-content-between \tBootstrap 4 Class"
+			],
+			[
+				"ju",
+				"justify-content-center \tBootstrap 4 Class"
+			],
+			[
+				"inline",
+				"d-inline \tBootstrap 4 Class"
+			],
+			[
+				"bt",
+				"btn-primary \tBootstrap 4 Class"
+			],
+			[
+				"vo",
+				"Voto_emitido"
+			],
+			[
+				"btn-s",
+				"btn-secondary \tBootstrap 4 Class"
+			],
+			[
+				"mt",
+				"mt-4 \tBootstrap 4 Class"
+			],
+			[
+				"bor",
+				"border-right-0 \tBootstrap 4 Class"
+			],
+			[
+				"justo",
+				"justify-content-center \tBootstrap 4 Class"
+			],
+			[
+				"text-w",
+				"text-white \tBootstrap 4 Class"
+			],
+			[
+				"iss",
+				"iis_set_dir_security"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"d-lg",
+				"d-lg-inline-block \tBootstrap 4 Class"
+			],
+			[
+				"nabar",
+				"navbar-nav \tBootstrap 4 Class"
+			],
+			[
+				"navar",
+				"navbar-collapse \tBootstrap 4 Class"
+			],
+			[
+				"align-it",
+				"align-items-stretch \tBootstrap 4 Class"
+			],
+			[
+				"al",
+				"align-content-center \tBootstrap 4 Class"
+			],
+			[
+				"align-items-s",
+				"align-items-stretch \tBootstrap 4 Class"
+			],
+			[
+				"roudned",
+				"rounded-top \tBootstrap 4 Class"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"fot",
+				"font-family"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"j",
+				"popper.min.js"
+			],
+			[
+				"b4stick",
+				"b4:template:sticky_footer+navbar\tsticky_footer+navbar"
+			],
+			[
+				"b4navartop",
+				"b4:template:navbar_top\tnavbar_top"
+			],
+			[
+				"b4col",
+				"b4:grid:col\tcol"
+			],
+			[
+				"b4j",
+				"b4:template:cdn_js\tcdn_js"
+			],
+			[
+				"b4grid",
+				"b4:grid:container\tcontainer"
+			],
+			[
+				"fix",
+				"fixed-top \tBootstrap 4 Class"
+			],
+			[
+				"nab",
+				"navbar \tBootstrap 4 Class"
+			],
+			[
+				"marign",
+				"margin-bottom"
+			],
+			[
+				"align-items",
+				"align-items-center \tBootstrap 4 Class"
+			],
+			[
+				"tex",
+				"text-left \tBootstrap 4 Class"
+			],
+			[
+				"text-",
+				"text-muted \tBootstrap 4 Class"
+			],
+			[
+				"exis",
+				"property_exists"
+			],
+			[
+				"else",
+				"elseif\telseif …"
+			],
+			[
+				"ali",
+				"align-self-center \tBootstrap 4 Class"
+			],
+			[
+				"pading",
+				"padding"
+			],
+			[
+				"aling-sel",
+				"align-self-center \tBootstrap 4 Class"
+			],
+			[
+				"align-item",
+				"align-items-center \tBootstrap 4 Class"
+			],
+			[
+				"carousel-co",
+				"carousel-control-next-icon \tBootstrap 4 Class"
+			],
+			[
+				"conte",
+				"container-fluid \tBootstrap 4 Class"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"align-content",
+				"align-content-center \tBootstrap 4 Class"
+			],
+			[
+				"align-text",
+				"align-text-bottom \tBootstrap 4 Class"
+			],
+			[
+				"ala",
+				"align-self-auto \tBootstrap 4 Class"
+			],
+			[
+				"d-mdb",
+				"d-md-table \tBootstrap 4 Class"
+			],
+			[
+				"a",
+				"align-items-end \tBootstrap 4 Class"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"lang",
+				"language\tAttr"
+			],
+			[
+				"text-c",
+				"text-center \tBootstrap 4 Class"
+			],
+			[
+				"justify-co",
+				"justify-content-center \tBootstrap 4 Class"
+			],
+			[
+				"html",
+				"Login.html"
+			],
+			[
+				"align-conte",
+				"align-content-center \tBootstrap 4 Class"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/laragon/www/ProjectGym/ctSales.php",
+			"settings":
+			{
+				"buffer_size": 13145,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/laragon/www/ProjectGym/FormSales.php",
+			"settings":
+			{
+				"buffer_size": 16748,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/laragon/www/ProjectGym/SQL/spinningfitbd.sql",
+			"settings":
+			{
+				"buffer_size": 18721,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "CreateSale.php",
+			"settings":
+			{
+				"buffer_size": 2297,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git log",
+				"git: log"
+			],
+			[
+				"init",
+				"git: init"
+			],
+			[
+				"git:log ",
+				"git: log"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"migrate",
+				"Laravel Artisan 5: Migrate:Refresh"
+			],
+			[
+				"make:model",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"artisan r:l",
+				"Laravel Artisan 5: Route:List"
+			],
+			[
+				"arrtisan route",
+				"Laravel Artisan 5: Route:List"
+			],
+			[
+				"migrate:r",
+				"Laravel Artisan 5: Migrate:Refresh"
+			],
+			[
+				"make:cotr",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"controler",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"migra",
+				"Laravel Artisan 5: Migrate"
+			],
+			[
+				"migrate:re",
+				"Laravel Artisan 5: Migrate:Refresh"
+			],
+			[
+				"migrate:ro",
+				"Laravel Artisan 5: Migrate:Rollback"
+			],
+			[
+				"migr",
+				"Laravel Artisan 5: Migrate"
+			],
+			[
+				"make:migra",
+				"Laravel Artisan 5: Make:Migration"
+			],
+			[
+				"rollb",
+				"Laravel Artisan 5: Migrate:Rollback"
+			],
+			[
+				"roll",
+				"Laravel Artisan 5: Migrate:Rollback"
+			],
+			[
+				"make:migration",
+				"Laravel Artisan 5: Make:Migration"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"make:midd",
+				"Laravel Artisan 5: Make:Middleware"
+			],
+			[
+				"make",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"make c",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"middle",
+				"Laravel Artisan 5: Make:Middleware"
+			],
+			[
+				"controller",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"middleware",
+				"Laravel Artisan 5: Make:Middleware"
+			],
+			[
+				"Laravel middle",
+				"Laravel Artisan 5: Make:Middleware"
+			],
+			[
+				"Laravel artisan 5: make:midd",
+				"Laravel Artisan 5: Make:Middleware"
+			],
+			[
+				"Snippet: ",
+				"Snippet: blade-var"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: en",
+				"Package Control: Enable Package"
+			],
+			[
+				"rena",
+				"ANF: Rename File"
+			],
+			[
+				"",
+				"ANF: Rename File"
+			],
+			[
+				"renamie",
+				"ANF: Rename File"
+			],
+			[
+				"Laravel ",
+				"Laravel Artisan 5: Serve"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 268.0,
+		"history":
+		[
+			"git",
+			"git status",
+			"php artisan route:list",
+			"php artisan r:l",
+			"cls",
+			"php artisan r:l",
+			"php -v",
+			"php artisan",
+			"php artisan make:controller example",
+			"cd",
+			"`PackageResourceViewer: Open Resource`:",
+			"PackageResourceViewer",
+			"Open Resorce",
+			"git",
+			"s",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/laragon/www/ProjectGym",
+		"/C/laragon/www/ProjectGym/SQL"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/ProyProrroga/report.php",
+		"/C/laragon/www/ProjectGym/FormSales.php",
+		"/C/xampp/htdocs/ProyProrroga/php/Instertdata.php",
+		"/C/xampp/htdocs/ProyProrroga/index.php",
+		"/C/laragon/www/ProjectGym/ctSales.php",
+		"/C/laragon/www/ProjectGym/php/recibo.php",
+		"/C/laragon/www/ProjectGym/css/style.css",
+		"/C/laragon/www/ProjectGym/php/ComplementSales.php",
+		"/C/laragon/www/ProjectGym/recibo.php",
+		"/C/xampp/htdocs/factura1/pdf/documentos/res/encabezado_factura.php",
+		"/C/xampp/htdocs/factura1/pdf/index.php",
+		"/C/xampp/htdocs/factura1/pdf/documentos/res/ver_factura_html.php",
+		"/C/laragon/www/ProjectGym/vendor/spipu/html2pdf/examples/res/example02.php",
+		"/C/laragon/www/ProjectGym/composer.lock",
+		"/C/laragon/www/ProjectGym/recibo1.php",
+		"/C/laragon/www/ProjectGym/php/recibo/documentos/res/ver_factura_html.php",
+		"/C/laragon/www/ProjectGym/php/recibo/documentos/recibo.php",
+		"/C/laragon/www/ProjectGym/php/recibo/_class/locale.class.php",
+		"/C/Users/HP Gamer/AppData/Local/Temp/Rar$DIa0.311/ver_factura.php",
+		"/C/Users/HP Gamer/AppData/Local/Temp/Rar$DIa0.296/locale.class.php",
+		"/C/laragon/www/ProjectGym/php/recibo/documentos/ver_factura.php",
+		"/C/xampp/htdocs/factura1/pdf/documentos/recibo.php",
+		"/C/laragon/www/ProjectGym/php/recibo/recibo.php",
+		"/C/xampp/htdocs/factura1/pdf/documentos/ver_factura.php",
+		"/C/laragon/www/ProjectGym/php/recibo/res/html2pdf/html2pdf.class.php",
+		"/C/laragon/www/ProjectGym/php/recibo/res/encabezado_factura.php",
+		"/C/laragon/www/ProjectGym/php/recibo/res/html2pdf/_class/locale.class.php",
+		"/C/laragon/www/ProjectGym/php/recibo/res/ver_factura_html.php",
+		"/C/laragon/www/ProjectGym/php/recibo/funciones.php",
+		"/C/laragon/www/ProjectGym/php/recibo/res/factura_html.php",
+		"/C/xampp/htdocs/factura1/pdf/html2pdf.class.php",
+		"/C/xampp/htdocs/factura1/pdf/documentos/factura.php",
+		"/C/laragon/www/ProjectGym/php/CreateSale.php",
+		"/C/xampp/htdocs/factura1/pdf/documentos/res/factura_html.php",
+		"/C/xampp/htdocs/factura1/funciones.php",
+		"/C/xampp/htdocs/factura1/config/conexion.php",
+		"/C/xampp/htdocs/factura1/config/db.php",
+		"/C/xampp/htdocs/factura1/facturas.php",
+		"/C/xampp/htdocs/factura1/nueva_factura.php",
+		"/C/laragon/www/ProjectGym/report.php",
+		"/C/laragon/www/ProjectGym/php/insertarNotas.php",
+		"/C/xampp/htdocs/ProyectoLIHC/php/Comprar.php",
+		"/C/xampp/htdocs/ProyectoLIHC/Carrito.php",
+		"/C/laragon/www/ProjectGym/chat.php",
+		"/C/laragon/www/ProjectGym/php/chat.php",
+		"/C/laragon/www/ProjectGym/notas.php",
+		"/C/xampp/htdocs/ProyectoVotaciones/AdCrear.php",
+		"/C/laragon/www/ProjectGym/messagesList.php",
+		"/C/laragon/www/ProjectGym/php/UserMenus2.php",
+		"/C/laragon/www/ProjectGym/ctEquipo.php",
+		"/C/laragon/www/ProjectGym/FormProducts.php",
+		"/C/laragon/www/ProjectGym/FormMaintenance.php",
+		"/C/laragon/www/ProjectGym/FormInvoices.php",
+		"/C/laragon/www/ProjectGym/FormExpenses.php",
+		"/C/laragon/www/ProjectGym/php/SessionButtons.php",
+		"/C/laragon/www/ProjectGym/index.php",
+		"/C/laragon/www/ProjectGym/php/consultarNotas.php",
+		"/C/laragon/www/ProjectGym/editarNotas.php",
+		"/C/laragon/www/ProjectGym/equipos.html",
+		"/C/laragon/www/ProjectGym/login.php",
+		"/C/laragon/www/ProjectGym/ctadmins.php",
+		"/C/laragon/www/ProjectGym/ctAds.php",
+		"/C/laragon/www/ProjectGym/ctClass.php",
+		"/C/laragon/www/ProjectGym/ctInvoices.php",
+		"/C/laragon/www/ProjectGym/ctMaintenance.php",
+		"/C/laragon/www/ProjectGym/ctProducts.php",
+		"/C/laragon/www/ProjectGym/registration.php",
+		"/C/laragon/www/ProjectGym/css/icomoon.css",
+		"/C/laragon/www/ProjectGym/ctClients.php",
+		"/C/laragon/www/ProjectGym/ctExpenses.php",
+		"/C/laragon/www/ProjectGym/ctinstructores.php",
+		"/C/laragon/www/ProjectGym/php/AuthenticationClient.php",
+		"/C/laragon/www/ProjectGym/css/stylenotas.css",
+		"/C/laragon/www/ProjectGym/ProyectoGym/editarNotas.html",
+		"/C/laragon/www/ProjectGym/php/editarNotas.php",
+		"/C/laragon/www/ProjectGym/php/importarNota.php",
+		"/C/laragon/www/ProjectGym/php/eliminarNotas.php",
+		"/C/laragon/www/ProjectGym/php/editarNotasAux.php",
+		"/C/xampp/htdocs/ProyectoVotaciones/AdEncuestas.php",
+		"/C/xampp/htdocs/ProyectoGym/php/UserMenus2.php",
+		"/C/xampp/htdocs/ProyectoGym/messagesList.php",
+		"/C/xampp/htdocs/ProyectoGym/notificationsList.php",
+		"/C/xampp/htdocs/ProyectoGym/index.php",
+		"/C/xampp/htdocs/ProyectoGym/chat.php",
+		"/C/xampp/htdocs/ProyectoGym/css/style.css",
+		"/C/xampp/htdocs/ProyectoGym/php/CreateAds.php",
+		"/C/xampp/htdocs/ProyectoGym/php/MakeNotifications.php",
+		"/C/Users/HP Gamer/AppData/Local/Temp/Rar$DIa0.142/chat.php",
+		"/C/Users/HP Gamer/AppData/Local/Temp/Rar$DIa0.772/chat.php",
+		"/C/xampp/htdocs/ProyectoGym/Calc.html",
+		"/C/xampp/htdocs/ProyectoGym/php/EditAds.php",
+		"/C/xampp/htdocs/ProyectoGym/php/DeleteAds.php",
+		"/C/xampp/htdocs/ProyectoGym/FormAds.php",
+		"/C/xampp/htdocs/ProyectoGym/ctAds.php",
+		"/C/xampp/htdocs/ProyectoGym/fontello-73592da2/fontello-73592da2/css/fontello.css",
+		"/C/xampp/htdocs/ProyectoGym/fontello-a1829433/fontello-a1829433/css/fontello.css",
+		"/C/xampp/htdocs/ProyectoGym/FormProducts.php",
+		"/C/xampp/htdocs/ProyectoGym/ctProducts.php",
+		"/C/xampp/htdocs/ProyectoGym/php/EditProducts.php",
+		"/C/xampp/htdocs/ProyectoGym/FormInvoices.php",
+		"/C/xampp/htdocs/ProyectoGym/FormExpenses.php",
+		"/C/xampp/htdocs/ProyectoGym/EditClients.php",
+		"/C/xampp/htdocs/ProyectoGym/php/CreateProducts.php",
+		"/C/xampp/htdocs/ProyectoGym/php/EditMaintenance.php",
+		"/C/xampp/htdocs/ProyectoGym/php/EditExpenses.php",
+		"/C/xampp/htdocs/ProyectoGym/php/CreateMaintenance.php",
+		"/C/xampp/htdocs/ProyectoGym/php/CreateExpenses.php",
+		"/C/xampp/htdocs/ProyectoGym/ctClients.php",
+		"/C/xampp/htdocs/ProyectoGym/EditInstructor.php",
+		"/C/xampp/htdocs/ProyectoGym/php/EditInstructor.php",
+		"/C/xampp/htdocs/ProyectoGym/ctinstructores.php",
+		"/C/xampp/htdocs/ProyectoGym/css/fontello.css",
+		"/C/xampp/htdocs/ProyectoGym/EditAdmin.php",
+		"/C/xampp/htdocs/ProyectoGym/fontello-c98b4b08/fontello-c98b4b08/css/fontello.css",
+		"/C/xampp/htdocs/ProyectoGym/php/EditClients.php",
+		"/C/xampp/htdocs/ProyectoGym/ctadmins.php",
+		"/C/xampp/htdocs/ProyectoGym/php/EditAdmin.php",
+		"/C/xampp/htdocs/ProyectoGym/Plantilla.php",
+		"/C/xampp/htdocs/ProyectoGym/ctExpenses.php",
+		"/C/xampp/htdocs/ProyectoGym/FormMaintenance.php",
+		"/C/xampp/htdocs/ProyectoGym/ctInvoices.php",
+		"/C/xampp/htdocs/ProyectoGym/ctMaintenance.php",
+		"/C/xampp/htdocs/ProyectoGym/ctSales.php",
+		"/C/xampp/htdocs/ProyectoGym/SpinnigFitbd.sql",
+		"/C/Users/HP Gamer/Google Drive/5° Semestre/Interaccion Humano-Computadora/Prototipo 1/Index.html",
+		"/C/xampp/htdocs/ProyectoGym/php/chat.php",
+		"/C/xampp/htdocs/ProyectoGym/php/login.php",
+		"/C/xampp/htdocs/ProyectoGym(TeamVersion)/login.php"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ventas",
+			"re",
+			"_blank",
+			"form",
+			"img",
+			"ing",
+			"img",
+			"line",
+			"con",
+			"descargar",
+			"ProductId",
+			"read",
+			"id=\"1\"",
+			"border",
+			"SESSION",
+			"a ",
+			"comments-list",
+			"1",
+			"cant",
+			"response",
+			"nombre_producto",
+			"; ",
+			"icon-arrow-up2",
+			"\t\n\t<script src=\"js/jquery.min.js\"></script>\n\t<script src=\"js/jquery.easing.1.3.js\"></script>\n\t<script src=\"js/bootstrap.min.js\"></script>\n\t<script src=\"js/jquery.waypoints.min.js\"></script>\n\t<script src=\"js/jquery.stellar.min.js\"></script>\n\t<script src=\"js/jquery.flexslider-min.js\"></script>\n\t<script src=\"js/owl.carousel.min.js\"></script>\n\t<script src=\"js/jquery.magnific-popup.min.js\"></script>\n\t<script src=\"js/magnific-popup-options.js\"></script>\n\t<script src=\"js/jquery.countTo.js\"></script>\n\t<script src=\"js/main.js\"></script>",
+			"<nav class=\"colorlib-nav\" role=\"navigation\" style=\"background: #25282a;\">\n\t\t\t<div class=\"top-menu\">\n\t\t\t\t<div class=\"container\">\n\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t<div class=\"col-md-3\">\n\t\t\t\t\t\t\t<div id=\"colorlib-logo\"><a href=\"index.html\">Spinning Fit</a></div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"col-md-9 text-center menu-1\">\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t<li><a href=\"index.html\">Inicio</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"schedule.html\">Horarios</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"trainers.html\">Instructores</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"info.html\">Acerca de</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"contact.html\">Contacto</a></li>\n\t\t\t\t\t\t\t\t<li class=\"active\"><a href=\"login.html\">Iniciar sesión</a></li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</nav>",
+			"<link rel=\"stylesheet\" href=\"css/animate.css\">\n\t<link rel=\"stylesheet\" href=\"css/icomoon.css\">\n\t<link rel=\"stylesheet\" href=\"css/bootstrap.css\">\n\t<link rel=\"stylesheet\" href=\"css/magnific-popup.css\">\n\t<link rel=\"stylesheet\" href=\"css/flexslider.css\">\n\t<link rel=\"stylesheet\" href=\"css/owl.carousel.min.css\">\n\t<link rel=\"stylesheet\" href=\"css/owl.theme.default.min.css\">\n\t<link rel=\"stylesheet\" href=\"fonts/flaticon/font/flaticon.css\">\n\t<link rel=\"stylesheet\" href=\"css/style.css\">\n\t<link rel=\"stylesheet\" href=\"css/stylenotas.css\">",
+			"validarNota",
+			"mysqli"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"icon-up-big",
+			"\t<?php include \"php/UserMenus2.php\"; ?>\n\t<script src=\"js/jquery.min.js\"></script>\n\t<script src=\"js/jquery.easing.1.3.js\"></script>\n\t<script src=\"js/bootstrap.min.js\"></script>\n\t<script src=\"js/jquery.waypoints.min.js\"></script>\n\t<script src=\"js/jquery.stellar.min.js\"></script>\n\t<script src=\"js/jquery.flexslider-min.js\"></script>\n\t<script src=\"js/owl.carousel.min.js\"></script>\n\t<script src=\"js/jquery.magnific-popup.min.js\"></script>\n\t<script src=\"js/magnific-popup-options.js\"></script>\n\t<script src=\"js/jquery.countTo.js\"></script>\n\t<script src=\"js/main.js\"></script>\n\t<script type=\"text/javascript\" src=\"js/pushbar.js\"></script>\n\t<script type=\"text/javascript\">\n\t  \tvar pushbar = new Pushbar({\n        \tblur:true,\n        \toverlay:true,\n  \t\t});\n\t</script>",
+			"\t\t<nav class=\"colorlib-nav\" role=\"navigation\">\n\t\t\t<div class=\"top-menu\">\n\t\t\t\t<div class=\"container\">\n\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t<div class=\"col-md-3\">\n\t\t\t\t\t\t\t<div id=\"colorlib-logo\"><a href=\"index.php\">Spinning Fit</a></div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"col-md-9 text-center menu-1\">\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t<li class=\"active\"><a href=\"index.php\">Inicio</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"schedule.html\">Horarios</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"trainers.html\">Instructores</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"info.html\">Acerca de</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"contact.html\">Contacto</a></li>\n\t\t\t\t\t\t\t\t<?php include \"php/SessionButtons.php\"; ?>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<?php include \"php/UserMenus.php\"; ?>\n\t\t</nav>",
+			"<link rel=\"stylesheet\" href=\"css/animate.css\">\n\t<link rel=\"stylesheet\" href=\"css/icomoon.css\">\n\t<link rel=\"stylesheet\" href=\"css/bootstrap.css\">\n\t<link rel=\"stylesheet\" href=\"css/magnific-popup.css\">\n\t<link rel=\"stylesheet\" href=\"css/flexslider.css\">\n\t<link rel=\"stylesheet\" href=\"css/owl.carousel.min.css\">\n\t<link rel=\"stylesheet\" href=\"css/owl.theme.default.min.css\">\n\t<link rel=\"stylesheet\" href=\"fonts/flaticon/font/flaticon.css\">\n\t<link rel=\"stylesheet\" type=\"text/css\" href=\"css/pushbar.css\">\n\t<link rel=\"stylesheet\" href=\"css/style.css\">\n\t<link rel=\"stylesheet\" href=\"css/fontello.css\">\n\t<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"images/LOGO.png\">\n\t<script src=\"js/modernizr-2.6.2.min.js\"></script>"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/laragon/www/ProjectGym/ctSales.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5368,
+								5368
+							]
+						],
+						"settings":
+						{
+							"SL.44.region_keys":
+							[
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2306.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/laragon/www/ProjectGym/FormSales.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11715,
+								11715
+							]
+						],
+						"settings":
+						{
+							"SL.52.region_keys":
+							[
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6438.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/laragon/www/ProjectGym/SQL/spinningfitbd.sql",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 18721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17691,
+								17697
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQL/SQL.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6595.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "CreateSale.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								670,
+								670
+							]
+						],
+						"settings":
+						{
+							"SL.42.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 870.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 168.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 156.0
+	},
+	"output.exec":
+	{
+		"height": 174.0
+	},
+	"output.find_results":
+	{
+		"height": 156.0
+	},
+	"pinned_build_system": "Packages/Java/Ant.sublime-build",
+	"project": "projectgym.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
