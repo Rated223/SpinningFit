@@ -162,7 +162,7 @@
 							<tr>
 		                        <td class="text-center"><?php echo $f['idadministrador']; ?></td>
 		                        <td class="text-center"><?php echo $f['usuario_administrador']; ?></td>
-		                        <td class="text-center"><?php echo $f[' nombre_administrador']; ?></td>
+		                        <td class="text-center"><?php echo $f['nombre_administrador']; ?></td>
 		                        <td class="text-center"><?php echo $f['apellido_administrador']; ?></td>
 		                        <td class="text-center"><?php echo $f['direccion_administrador']; ?></td>
 		                        <td class="text-center"><?php echo $f['correo_administrador']; ?></td>
