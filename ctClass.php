@@ -94,7 +94,7 @@
 			<?php include "php/UserMenus.php"; ?>
 		</nav>
 		
-		<div id="colorlib-main" style="background-image: url(images/img_bg_2.jpg);" data-stellar-background-ratio="0.5">
+		<div id="colorlib-main" style="background-image: url(images/img_bg_3.jpg);" data-stellar-background-ratio="0.5">
 			<div class="container">
 				<div class="row">
 					<div class="col-12 mt-5 bg-white rounded">

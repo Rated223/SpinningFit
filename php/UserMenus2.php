@@ -85,7 +85,7 @@ if (isset($_SESSION["tipo"])) {
 			<a href="">
 				<div class="navLink"><span class="icon-user"></span>Perfil</div>
 			</a>
-			<a href="ctAsistance.php">
+			<a href="Asistance.php">
 				<div class="navLink"><span class="icon-clipboard"></span>Asistencia</div>
 			</a>
 			<a href="ctClass.php">
