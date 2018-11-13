@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<?php session_start(); ?>
+<?php include "php/AuthenticationInstructor.php";?>
 <html>
 	<head>
 	<meta charset="utf-8">
@@ -84,7 +84,7 @@
 			<?php include "php/UserMenus.php"; ?>
 		</nav>
 
-		<div id="colorlib-main" style="background-image: url(images/img_bg_2.jpg);" data-stellar-background-ratio="0.5">
+		<div id="colorlib-main" style="background-image: url(images/img_bg_3.jpg);" data-stellar-background-ratio="0.5">
 			<div class="container">
 				<div class="row">
 					<div class="col-12 mt-5 bg-white rounded">
@@ -120,15 +120,11 @@
 										<input type="date" id="Fecha" name="Fecha" step="1" min="2013-01-01" max="2030-12-31" value="<?php echo $date; ?>">
 									</div>
 								</div>
-
-
-
 								<div class="form-group row justify-content-center">
 									<div class="col-sm-offset-2 col-sm-10">
 										<button type="submit" class="btn btn-primary" name="id" value="<?php echo $id; ?>">Guardar</button>
 									</div>
 								</div>
-
 							</form>
 						</div>
 					</div>

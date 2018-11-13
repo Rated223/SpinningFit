@@ -95,7 +95,7 @@
 		</nav>
 		
 		<div id="colorlib-main" style="background-image: url(images/img_bg_3.jpg);" data-stellar-background-ratio="0.5">
-			<div class="container">
+			<div class="container-fluid">
 				<div class="row">
 					<div class="col-12 mt-5 bg-white rounded">
 						<div class="mt-5 text-center colorlib-heading animate-box">

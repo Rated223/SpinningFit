@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<?php include "php/AuthenticationAdmin.php";?>
+<?php include "php/AuthenticationInstructor.php";?>
 
 <html>
 	<head>
@@ -10,8 +10,8 @@
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
 	<meta name="author" content="" />
-	
-	  <!-- Facebook and Twitter integration -->
+
+  <!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
 	<meta property="og:image" content=""/>
 	<meta property="og:url" content=""/>
@@ -21,7 +21,6 @@
 	<meta name="twitter:image" content="" />
 	<meta name="twitter:url" content="" />
 	<meta name="twitter:card" content="" />
-
 
 	<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,700,900" rel="stylesheet">
 	<link rel="stylesheet" href="css/animate.css">
@@ -89,8 +88,8 @@
 			<?php include "php/UserMenus.php"; ?>
 		</nav>
 		
-		<div id="colorlib-main" style="background-image: url(images/img_bg_2.jpg);" data-stellar-background-ratio="0.5">
-			<div class="container">
+		<div id="colorlib-main" style="background-image: url(images/img_bg_3.jpg);" data-stellar-background-ratio="0.5">
+			<div class="container-fluid">
 				<div class="row">
 					<div class="col-12 mt-5 bg-white rounded">
 						<div class="mt-5 text-center colorlib-heading animate-box">

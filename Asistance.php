@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<?php session_start(); ?>
+<?php include "php/AuthenticationInstructor.php";?>
 <html>
 	<head>
 	<meta charset="utf-8">
@@ -61,7 +61,7 @@
     <?php } ?>
 
  	<div id="page">
- 		<nav class="colorlib-nav" role="navigation" style="background: #25282a;">
+		<nav class="colorlib-nav" role="navigation" style="background: #25282a;">
 			<div class="top-menu">
 				<div class="container">
 					<div class="row">
@@ -188,10 +188,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 		</div>
 	</footer>
 
-	<div class="gototop js-top text-left">
+	<div class="gototop js-top">
 		<a href="#" class="js-gotop"><i class="icon-up-big"></i></a>
-	</div>		
-			<!--Se termina La tabla-->
+	</div>
 	<?php include "php/UserMenus2.php"; ?>
 	<script src="js/jquery.min.js"></script>
 	<script src="js/jquery.easing.1.3.js"></script>
@@ -206,7 +205,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 	<script src="js/main.js"></script>
 	<script type="text/javascript" src="js/pushbar.js"></script>
 	<script type="text/javascript">
-		var pushbar = new Pushbar({
+	  	var pushbar = new Pushbar({
         	blur:true,
         	overlay:true,
   		});

@@ -33,11 +33,12 @@
 	<link rel="stylesheet" href="css/owl.carousel.min.css">
 	<link rel="stylesheet" href="css/owl.theme.default.min.css">
 	<link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+	<link rel="stylesheet" type="text/css" href="css/pushbar.css">
 	<link rel="stylesheet" href="css/style.css">
-
+	<link rel="stylesheet" href="css/fontello.css">
+	<link rel="shortcut icon" type="image/x-icon" href="images/LOGO.png">
 	<script src="js/modernizr-2.6.2.min.js"></script>
 	</head>
-
 	<body>
 		<div class="colorlib-loader"></div>
 
@@ -73,11 +74,11 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-3">
-							<div id="colorlib-logo"><a href="index.html">Spinning Fit</a></div>
+							<div id="colorlib-logo"><a href="index.php">Spinning Fit</a></div>
 						</div>
 						<div class="col-md-9 text-center menu-1">
 							<ul>
-								<li><a href="index.html">Inicio</a></li>
+								<li><a href="index.php">Inicio</a></li>
 								<li><a href="schedule.html">Horarios</a></li>
 								<li><a href="trainers.html">Instructores</a></li>
 								<li><a href="info.html">Acerca de</a></li>
@@ -89,7 +90,7 @@
 				</div>
 			</div>
 			<?php include "php/UserMenus.php"; ?>
-		</nav> 
+		</nav>
 
 		<div id="colorlib-main" style="background-image: url(images/img_bg_5.jpg);" data-stellar-background-ratio="0.5">
 			<div class="container">
@@ -126,21 +127,18 @@
 								</div>
 							</div>
 							<div class="input-group-prepend">
-											<label class="input-group-text" for="inputGroupSelect01">Frecuencia</label> 
-										</div>
-										<select class="custom-select" id="frecu" name="frecu">
-											<option selected>---Selecciones la frecuencia---</option>
-											<option value="L,M y V">L,M y V</option>
-    										<option value="M y J">M y J</option>
-										</select>
-									</div>
-
-							
-				                 <div class="form-group row justify-content-center">
-				                    <div class="col-sm-offset-2 col-sm-10">
-				                            <button type="submit" class="btn btn-primary" name="id" value="<?php echo $id; ?>" >Guardar</button>
-				                    </div>
-				                </div>
+								<label class="input-group-text" for="inputGroupSelect01">Frecuencia</label> 
+							</div>
+							<select class="custom-select mb-3" id="frecu" name="frecu">
+								<option selected>---Selecciones la frecuencia---</option>
+								<option value="L,M y V">L,M y V</option>
+								<option value="M y J">M y J</option>
+							</select>
+		                 	<div class="form-group row justify-content-center">
+			                    <div class="col-sm-offset-2 col-sm-10">
+			                            <button type="submit" class="btn btn-primary" name="id" value="<?php echo $id; ?>" >Guardar</button>
+			                    </div>
+			                </div>
                 		</form>
 					</div>
 				</div>
@@ -220,7 +218,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 	<script src="js/main.js"></script>
 	<script type="text/javascript" src="js/pushbar.js"></script>
 	<script type="text/javascript">
-		var pushbar = new Pushbar({
+	  	var pushbar = new Pushbar({
         	blur:true,
         	overlay:true,
   		});

@@ -34,7 +34,7 @@ if (isset($_SESSION["tipo"])) {
 				<div class="navLink"><span class="icon-user"></span>Perfil</div>
 			</a>
 			<a href="">
-				<div class="navLink"><span class="icon-contacts"></span>Instructor</div>
+				<div class="navLink"><span class="icon-contacts"></span>Instructores</div>
 			</a>
 			<a href="">
 				<div class="navLink"><span class="icon-calendar-inv"></span>Calendario</div>
@@ -94,7 +94,7 @@ if (isset($_SESSION["tipo"])) {
 			<a href="">
 				<div class="navLink"><span class="icon-pitch"></span>Rutinas</div>
 			</a>
-			<a href="">
+			<a href="ctEquipo.php">
 				<div class="navLink"><span class="icon-chart-line"></span>Aparatos</div>
 			</a>
 		</nav>
